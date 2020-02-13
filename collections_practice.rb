@@ -27,6 +27,6 @@ def kesha_maker(k)
 end
 
 def find_a(a)
-  a.find_all{|i| i[0] == i}
+  a.find_all{|i| i[0] == "a"}
   
 end 
