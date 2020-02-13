@@ -25,3 +25,5 @@ end
 def kesha_maker(k)
   k.each{|m| m[2] = "$"}
 end
+
+def 
