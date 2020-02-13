@@ -18,5 +18,5 @@ def swap_elements(n)
   n 
 end 
 
-def reverse_array
+def reverse_array(j)
 end
