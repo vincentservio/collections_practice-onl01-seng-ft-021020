@@ -27,5 +27,5 @@ def kesha_maker(k)
 end
 
 def find_a(a)
-  a.dectect{|i| i[0] == i }
+  a.dectect{|i| i[0] == i}
 end 
