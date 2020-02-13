@@ -36,7 +36,8 @@ def sum_array(g)
 end
 
 def add_s(s)
-  g.collect {|i| if g[1] == i 
+  g.collect {|i| 
+  if g[1] == i 
   i 
 else  
   i + "s"
