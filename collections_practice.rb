@@ -23,5 +23,5 @@ def reverse_array(j)
 end
 
 def kesha_maker(k)
-  k[3] = "$" 
+  k.each{|m| m[2] = "$"}
 end
