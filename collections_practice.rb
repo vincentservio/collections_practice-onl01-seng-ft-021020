@@ -14,5 +14,6 @@ end
 end 
 
 def swap_elements(n)
-  
+  n[1], n[2] = n[2], n[1]
+  n 
 end 
