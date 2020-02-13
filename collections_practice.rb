@@ -26,4 +26,6 @@ def kesha_maker(k)
   k.each{|m| m[2] = "$"}
 end
 
-def 
+def find_a(a)
+  a.dectect{|i| i[0] == i }
+end 
