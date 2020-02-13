@@ -36,6 +36,11 @@ def sum_array(g)
 end
 
 def add_s(s)
-  s.each_with_index.collect("feet"){
+  g.collect {|i| if g[1] == i 
+  i 
+else  
+  i + "s"
+  end
+end
   
 end 
