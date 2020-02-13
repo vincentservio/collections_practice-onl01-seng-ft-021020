@@ -22,4 +22,6 @@ def reverse_array(j)
   j.reverse
 end
 
-def 
+def kesha_maker(k)
+  k[3] = "$" 
+end
