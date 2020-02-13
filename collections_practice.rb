@@ -40,7 +40,7 @@ def add_s(s)
   if s[1] == i 
   i 
 else  
-  i + "s"
+  i + "s"}
   end
 end
   
