@@ -35,6 +35,7 @@ def sum_array(g)
   g.inject { |sum, n| sum + n } 
 end
 
-def add_s 
-end 
+def add_s(s)
+  s.each_with_index
+  
 end 
