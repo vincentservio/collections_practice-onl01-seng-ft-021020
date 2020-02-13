@@ -28,4 +28,5 @@ end
 
 def find_a(a)
   a.detect{|i| i[0] == i}
+  
 end 
